@@ -115,6 +115,6 @@ fi
 [ -r /home/ivan/.byobu/prompt ] && . /home/ivan/.byobu/prompt   #byobu-prompt#
 
 # Custom Alias
-# This is the PH logo CUSTOM SCREEN BASH SCRIPT
+# This is the PH logo CUSTOM LOCKSCREEN BASH SCRIPT
 alias lock='$HOME/lockscreen.sh'
 #(xautolock -time 1 -locker lock) #xautolock, if 5 mins of inactivity a program that locks will be called followed by the -locker parameter. Lock is our script
