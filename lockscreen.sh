@@ -6,4 +6,4 @@ scrot /tmp/screen.png #will need scrot if you do not have it
 #convert $TMPBG -scale 10% -scale 1000% $TMPBG #More blur and pixelized background
 convert $TMPBG -scale 25% -scale 400% -fill black -colorize 25% $TMPBG
 convert $TMPBG $ICON -gravity center -composite -matte $TMPBG
-i3lock -u -i $TMPBG #will need to have i3lock
+i3lock -u -i $TMPBG #will need to have i3lock, a type of screenlock similar to gnome-screensaver
