@@ -4,7 +4,7 @@
 <b>Current layouts</b>
 <url>https://imgur.com/a/Ek9xm</url>
 
-Icon dock: <b>Docky</b></br>
+Icon dock: <a href="https://launchpad.net/docky">Docky</a></br>
 Shell: <a href="http://gnome-look.org/content/show.php/Ciliora-Secunda-Shell?content=167915">Ciliora-Secunda-Shell</a></br>
 Icons: <a href="https://numixproject.org/">Numix</a>
 
