@@ -5,6 +5,6 @@
 <url>https://imgur.com/a/Ek9xm</url>
 
 Icon dock: <b>Docky</b>
-Shell: <a href="http://gnome-look.org/content/show.php/Ciliora-Secunda-Shell?content=167915">Ciliora-Secunda-Shell</a>
+Shell: <a href="http://gnome-look.org/content/show.php/Ciliora-Secunda-Shell?content=167915">Ciliora-Secunda-Shell</a></br>
 Icons: <a href="https://numixproject.org/">Numix</a>
 
