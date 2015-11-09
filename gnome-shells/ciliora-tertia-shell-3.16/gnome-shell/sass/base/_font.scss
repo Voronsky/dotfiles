@@ -1,0 +1,23 @@
+/* =====================================================
+   ! Font
+   ===================================================== */
+
+$font-family: Droid Sans, Sans-Serif;
+
+stage {
+    font-family: $font-family;
+    font-size: 9pt;
+}
+
+.shell-link {
+    color: $accent-text;
+    font-weight: normal;
+    text-decoration: none;
+
+    &:hover {
+        color: $accent-text;
+        text-decoration: underline;
+    }
+}
+
+.label-shadow { color: rgba(0, 0, 0, 0) !important; }
