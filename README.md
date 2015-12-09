@@ -2,7 +2,7 @@
 <p>My personal environment dotfiles and stuff for both Linux and ChromeOS</br><p>Have questions? Hit me up!
 
 <b>Current layouts</b>
-<url>http://imgur.com/a/nz4H6</url>
+<url>http://imgur.com/a/F846J</url>
 <ul>
 <li>Icon dock: <a href="https://launchpad.net/docky">Docky</a></li>
 <li>Shell: <a href="https://github.com/zagortenay333/ciliora-tertia-shell">Ciliora-Tertia-Shell</a></li>
